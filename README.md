@@ -1,4 +1,7 @@
-# Clinical-Dataset-Cleaning-From-Raw-Data-to-Insights-1-000-Rows-
+# Clinical-Dataset-Cleaning-From-Raw-Data-to-Insights-1-000-Rows
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 This project focuses on the end-to-end cleaning and preprocessing of a clinical dataset containing 1,000 records. The raw data was initially disorganized, with inconsistent formatting, missing demographic values, and unoptimized data types.
 
